@@ -1,6 +1,6 @@
 # sthapa411.github.io
 What changes I made to my homework html files -
-I linked the html file to the corresponding css file so that the content of my website would be more appealing because of the different style that a css file would allow me to apply to my website. Such as adding image, background of the webpage, its color, size of different elements and their placement. 
+I linked the html file to the corresponding css file so that the content of my website would be more appealing because of the different style that a css file would allow me to apply to my website. Such as adding image size, background of the webpage, its color, size of different elements and their placement. 
 I added "alt" for the images for that file as it was missing. 
 
 For CSS file - 
