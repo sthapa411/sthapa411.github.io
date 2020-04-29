@@ -53,14 +53,12 @@ nav a:hover {
     font-size: 20px;
 }
 
-
-
 .seo{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
 }
 
 body {
-    background-image: url("https://uconn.bootcampcontent.com/university-of-connecticut/conn-hfd-fsf-pt-04-2020-u-c/raw/master/01-HTML-Git-CSS/02-Homework/Develop/assets/images/digital-marketing-meeting.jpg");
+    background-image: url(https://uconn.bootcampcontent.com/university-of-connecticut/conn-hfd-fsf-pt-04-2020-u-c/raw/master/01-HTML-Git-CSS/02-Homework/Develop/assets/images/digital-marketing-meeting.jpg) ;
     background-attachment: scroll;
     background-size: contain;
     background-repeat: no-repeat;
@@ -76,23 +74,21 @@ body {
 
 .hero {
     margin-top: 480px;
+    
 }
 
-img {
-    height: 150px;
-    width: 150px ;
-    padding: 10px;
-}
-
-#search-engine-optimization img {
+#image1 {
     float: left;
+    height: 100px;
+    width: 150px;
+    padding: 10px;
 }
 
 #search-engine-optimization {
     right: 0;
     left: 0;
     z-index: 999;
-    padding-left: 50px;
+    padding-left: 100px;
     padding-right: 100px;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -103,9 +99,13 @@ img {
     color: white;
 }
 
-#online-reputation-management img {
+#image2 {
     float: right;
+    height: 100px;
+    width: 150px;
+    padding: 10px;
 }
+
 
 #online-reputation-management {
     right: 0;
@@ -126,15 +126,19 @@ img {
     color: white;
 }
 
-#social-media-marketing img {
+#image3 {
     float: left;
+    height: 100px;
+    width: 150px;
+    padding: 10px;
 }
+
 
 #social-media-marketing {
     right: 0;
     left: 0;
     z-index: 999;
-    padding-left: 50px;
+    padding-left: 100px;
     padding-right: 100px;
     padding-top: 30px;
     padding-bottom: 60px;
@@ -149,35 +153,40 @@ img {
     color: white;
 }
 
-.benefits {
-    clear: both;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    width: 95%
-    text-align: justify;
-    font-size: 18px;
-    color: white;
+#image4 {
+    float: left;
+    height: 100px;
+    width: 150px;
+    padding: 10px;
+}
+
+#image5 {
+    float: left;
+    height: 100px;
+    width: 150px;
+    padding: 10px;
+}
+
+#image6 {
+    float: left;
+    height: 100px;
+    width: 150px;
+    padding: 10px;
 }
 
 .benefit-lead {
     width: 30%;
     float: left;
-    padding: 15px;
-    padding-left: 30px;
+    padding: 15px;  
 }
 .benefit-brand {
     width: 30%;
     float: left;
-    padding: 5px;
 }
 
 .benefit-cost {
     width: 30%;
     float: left;
-    padding: 5px;
-
 }
 
 h3 {
